@@ -1,4 +1,5 @@
 # Mantelos
 This repository contains machine learning algorithms in Python to handle the data produced by the Master's Thesis of Michalis Mantelos.
 
-In the folder **Logistic regression** there is a binary classifier implemented with the aid of **sklearn**.
+1) In the folder **Logistic regression** there is a binary classifier implemented with the aid of **sklearn**.
+2) In the folder **3 Layer NN** there is a three layer Deep Neural Network with 11 hidden units that was constructed with the aid of TensorFlow.
